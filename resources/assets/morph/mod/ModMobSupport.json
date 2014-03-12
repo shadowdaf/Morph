@@ -74,6 +74,9 @@
       "climb",
       "hostile"
     ],
+    "biomesoplenty.entities.EntityPixie": [
+      "fly|true"
+    ],
     "biomesoplenty.entities.EntityRosester": [
       "float|-0.114,true"
     ],
